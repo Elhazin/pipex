@@ -1,4 +1,7 @@
 # pipex
+<h1>What is Pipex</h1>
+<h2>Pipex is a project in 42School that reproduces the behaviour of the shell pipe | command in C.
+<br>It launches as <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./pipex infile cmd1 cmd2 outfile <br>and behaves as this line does in the shell  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;< infile cmd1 | cmd2 > outfile .</h2>
 ## Some useful articles to read :<br/>
 
 [click here](https://www.gnu.org/software/libc/manual/html_node/System-Calls.html)   
